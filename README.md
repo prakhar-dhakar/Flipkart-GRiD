@@ -40,3 +40,7 @@ y2	y+height of bounding box
 Submission File Format
 
 Participant needs to submit the predication file (test.csv) containing the Image Name and the corresponding bounding box values associated with that image in the .csv format
+
+[Training Data]( https://d8it4huxumps7.cloudfront.net/uploads/attachements/code-contests/flipkartgrid/training.csv)
+[Testing Set](https://d8it4huxumps7.cloudfront.net/uploads/attachements/code-contests/flipkartgrid/test.csv)
+[Image Dataset Torrent Link](https://d8it4huxumps7.cloudfront.net/uploads/attachements/code-contests/flipkartgrid/images.zip.torrent)
